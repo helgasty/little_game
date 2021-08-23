@@ -1,6 +1,6 @@
-# Livestorm Game
+# Little Game
 
-A little game in Ruby made for the Livestorm Back-End Hiring Test.
+A little game in Ruby.
 <br>
 In this game, you should surivive to 10 rooms and defeat Cthulhu the destructor. 
 
@@ -11,7 +11,7 @@ First of all clone the project.
 Then in the <b>game.rb</b> file, change the following line by you're local game path.
 
 ```bash
-Dir["/var/www/livestorm_game/lib/*.rb"]
+Dir["/var/www/game/lib/*.rb"]
 ```
 
 To launch the game, run the following command and have fun :) 
